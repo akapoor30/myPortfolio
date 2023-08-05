@@ -1,4 +1,5 @@
 import React from "react";
+
 import profileImage from "../_DSC1155.JPG";
 
 import resumeFile from "../Ansh Kapoor's Resume.pdf";
@@ -25,6 +26,29 @@ const Header = () => {
             <a href="#contact">Contact</a>
             <a href="#achievements">Achievements</a>
             <a href="#certificates">Certificates</a>
+            <a
+              href="your-linkedin-profile-url"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fab fa-linkedin"></i>
+            </a>
+            {/* Add GitHub profile */}
+            <a
+              href="your-github-profile-url"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fab fa-github"></i>
+            </a>
+            {/* Add LeetCode profile */}
+            <a
+              href="your-leetcode-profile-url"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fab fa-leetcode"></i>
+            </a>
           </nav>
         </div>
       </div>
