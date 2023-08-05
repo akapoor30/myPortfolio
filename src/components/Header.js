@@ -1,5 +1,5 @@
 import React from "react";
-import profileImage from "../_DSC1155.JPG";
+import profileImage from "./_DSC1155.JPG";
 
 import resumeFile from "../Ansh Kapoor's Resume.pdf";
 
