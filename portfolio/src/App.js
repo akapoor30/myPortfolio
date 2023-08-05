@@ -7,6 +7,7 @@ import Skills from "./components/Skills";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Achievements from "./components/Achievements";
+import Certificates from "./components/Certificates";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
         <Projects />
         <Skills />
         <Achievements />
+        <Certificates />
         <Contact />
       </main>
       <Footer />

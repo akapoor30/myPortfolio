@@ -191,9 +191,9 @@ img {
 .profile-image img {
   max-width: 100px;
   border-radius: 50%;
-float: right;
+  float: right;
   position: absolute;
-  top: 0;
+  top: -52px;
   right: 0;
   /* For a circular profile picture */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
