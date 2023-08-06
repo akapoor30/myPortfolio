@@ -12,7 +12,7 @@ const Header = () => {
           <h1 style={{ fontFamily: "'Itim'" }}>ANSH KAPOOR</h1>
           <div className="parent-container">
             <div className="profile-image">
-              <img src={profileImage} alt="Profile" />
+              <img src="https://i.ibb.co/NT4PwJp/20220904.jpg" alt="Profile" />
             </div>
           </div>
           <nav>
