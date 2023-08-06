@@ -28,30 +28,6 @@ const Projects = () => {
         </a>
       </div>
 
-      {/* From Paper to Pixels */}
-      <div className="project">
-        <h3>
-          From Paper to Pixels: A Machine Learning Solution for Sustainable
-          Study Materials
-        </h3>
-        <p>
-          Developed an ML solution predicting student study material
-          preferences, optimizing deliveries, and demonstrating proficiency in
-          Python, Jupyter, and ML algorithms.
-        </p>
-        <p>
-          <strong>Tech Used:</strong> Python, Jupyter, Pandas, Numpy,
-          Scikit-Learn
-        </p>
-        <a
-          href="YOUR_PAPER_TO_PIXELS_LINK_HERE"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          View Project
-        </a>
-      </div>
-
       {/* Weather app */}
       <div className="project">
         <h3>Weather app</h3>
