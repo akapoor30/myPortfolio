@@ -10,11 +10,11 @@ const Header = () => {
       <div className="header-content">
         <div className="header-title">
           <h1 style={{ fontFamily: "'Itim'" }}>ANSH KAPOOR</h1>
-          {/* <div className="parent-container">
+          <div className="parent-container">
             <div className="profile-image">
               <img src={profileImage} alt="Profile" />
             </div>
-          </div> */}
+          </div>
           <nav>
             {/* Add links to different sections */}
             <a href="#about">About</a>
