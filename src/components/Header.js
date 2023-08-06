@@ -1,9 +1,8 @@
 import React from "react";
-
-import profileImage from "./_DSC1155.JPG";
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+// import { faLeetcode } from "@fortawesome/free-solid-svg-icons";
 import resumeFile from "../Ansh Kapoor's Resume.pdf";
-
 const Header = () => {
   return (
     <header>
@@ -26,28 +25,21 @@ const Header = () => {
             <a href="#contact">Contact</a>
             <a href="#achievements">Achievements</a>
             <a href="#certificates">Certificates</a>
+            {/* GitHub profile */}
             <a
-              href="your-linkedin-profile-url"
+              href="https://github.com/akapoor30"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="fab fa-linkedin"></i>
+              <FontAwesomeIcon icon={faGithub} />
             </a>
-            {/* Add GitHub profile */}
+            {/* linkdin profile */}
             <a
-              href="your-github-profile-url"
+              href="https://www.linkedin.com/in/ansh-kapoor-6200b9214/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="fab fa-github"></i>
-            </a>
-            {/* Add LeetCode profile */}
-            <a
-              href="your-leetcode-profile-url"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i className="fab fa-leetcode"></i>
+              <FontAwesomeIcon icon={faLinkedin} />
             </a>
           </nav>
         </div>
