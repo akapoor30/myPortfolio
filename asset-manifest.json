@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.3466c8bc.css",
-    "main.js": "/myPortfolio/static/js/main.c92935a6.js",
+    "main.js": "/myPortfolio/static/js/main.c1d78dc4.js",
     "static/js/787.1ed0c42c.chunk.js": "/myPortfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Ansh Kapoor's Resume.pdf": "/myPortfolio/static/media/Ansh Kapoor's Resume.b4d10ecb82de025e25bf.pdf",
+    "static/media/Ansh Kapoor's Resume(new).pdf": "/myPortfolio/static/media/Ansh Kapoor's Resume(new).f2b539b52d1e5c313815.pdf",
     "index.html": "/myPortfolio/index.html",
     "main.3466c8bc.css.map": "/myPortfolio/static/css/main.3466c8bc.css.map",
-    "main.c92935a6.js.map": "/myPortfolio/static/js/main.c92935a6.js.map",
+    "main.c1d78dc4.js.map": "/myPortfolio/static/js/main.c1d78dc4.js.map",
     "787.1ed0c42c.chunk.js.map": "/myPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3466c8bc.css",
-    "static/js/main.c92935a6.js"
+    "static/js/main.c1d78dc4.js"
   ]
 }
