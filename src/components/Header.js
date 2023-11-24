@@ -2,7 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
 // import { faLeetcode } from "@fortawesome/free-solid-svg-icons";
-import resumeFile from "../Ansh Kapoor's Resume.pdf";
+import resumeFile from "../Ansh Kapoor's Resume(new).pdf";
 const Header = () => {
   return (
     <header>
@@ -17,7 +17,7 @@ const Header = () => {
           <nav>
             {/* Add links to different sections */}
             <a href="#about">About</a>
-            <a href={resumeFile} download="Ansh_Kapoor_Resume.pdf">
+            <a href={resumeFile} download="Ansh_Kapoor_Resume_(new).pdf">
               Resume
             </a>
             <a href="#projects">Projects</a>
